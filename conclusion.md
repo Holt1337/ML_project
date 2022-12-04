@@ -33,5 +33,9 @@
 ## Часть 5 Реализация сервиса на FastAPI
 Был реализован сервис на FastAPI, который реализует следующие функции:
 - на вход в формате json подаются признаки одного объекта, на выходе сервис выдает предсказанную стоимость машины
+![Image alt](https://github.com/Holt1337/ML_project/blob/main/pictures/data1.png)
 
+![Image alt](https://github.com/Holt1337/ML_project/blob/main/pictures/out1.png)
 - на вход подается csv-файл с признаками тестовых объектов, на выходе получаем файл с +1 столбцом - предсказаниями на этих объектах
+![Image alt](https://github.com/Holt1337/ML_project/blob/main/pictures/data2.png)
+
